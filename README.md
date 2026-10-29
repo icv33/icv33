@@ -15,7 +15,7 @@ Expo · React Native · TypeScript · Supabase · Next.js — en beta en iPhone 
 | [**aprendia**](https://github.com/icv33/aprendia) | Editorial de ebooks con IA: generador, landing con pago y panel con TikTok, vídeos y finanzas | Next.js · Supabase · Claude · Stripe |
 | [**nexus-crm**](https://github.com/icv33/nexus-crm) | CRM con agentes de IA que buscan clientes, les escriben y hacen el seguimiento | Next.js · Prisma · Claude · Gmail API |
 | [**vita**](https://github.com/icv33/vita) | App móvil para planificar entrenamiento, comida y horarios | Expo · React Native · TypeScript |
-| [**aprendia-store**](https://github.com/icv33/aprendia-store) | Tienda de ebooks con diseño editorial | Next.js · Prisma · Stripe |
+| [**aprendia-store**](https://github.com/icv33/aprendia-store) | Tienda de una editorial inventada con un libro en 3D que gira y se arrastra ([verla en vivo](https://aprendia-store.vercel.app)) | Next.js · TypeScript · CSS 3D |
 
 ### 🧰 Con qué trabajo
 
